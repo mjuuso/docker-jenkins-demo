@@ -1,5 +1,8 @@
 # Demo of building Docker images in Jenkins 2
-## To get started
+## Install Docker
+https://docs.docker.com/engine/installation/
+
+## To get started with the demo
 Build the Docker image:
 ```
 docker build . -t my_awesome_app
